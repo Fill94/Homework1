@@ -6,7 +6,7 @@
 		<properties>
 			<property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
 			<property name="javax.persistence.jdbc.user" value="postgres" />
-			<property name="javax.persistence.jdbc.password" value="Artick70" />
+			<property name="javax.persistence.jdbc.password" value="psw" />
 			<property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost/courses" />
 			<property name="hibernate.show_sql" value="true" />
 			<property name="hibernate.format_sql" value="true" />
